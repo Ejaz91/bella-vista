@@ -64,7 +64,7 @@ body::selection{
 
 .hero{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/bella-vista/Images/resturant.avif)center/cover;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/Images/resturant.avif)center/cover;
     margin-top:80px; 
     display: flex;
     text-align: center;
